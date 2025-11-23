@@ -2,6 +2,8 @@
 
 A static frontend copy of Spotify's design using only HTML and CSS.
 
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/bf1c2337-ad9b-47b0-9a48-ebca616686b8" />
+
 ## About
 This is a frontend-only project that looks like Spotify. It doesn't play real music - it's just the visual design.
 
